@@ -1,0 +1,1 @@
+default['httpd1']['my_name'] = "Oracle_employee1"
